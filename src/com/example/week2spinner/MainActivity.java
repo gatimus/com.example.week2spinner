@@ -41,6 +41,7 @@ public class MainActivity extends ActionBarActivity {
 			@Override
 			public void onNothingSelected(AdapterView<?> parent) {
 				// from git
+				// from eclipse
 				
 				
 			}
